@@ -1,9 +1,5 @@
 # Canvassa
 
-## Presentation
-
-[Presentation Video](https://youtu.be/MKy910K6rUg)
-
 ## Accessing the Deployed Version
 
 Visit http://canvassa.tech
