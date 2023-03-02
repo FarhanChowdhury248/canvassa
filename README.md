@@ -2,7 +2,7 @@
 
 ## Accessing the Deployed Version
 
-Visit http://canvassa.tech
+Visit ~~http://canvassa.tech~~ (deactivated)
 
 For a full experience of how the app works, you can try the following.
 
